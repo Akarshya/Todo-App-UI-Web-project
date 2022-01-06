@@ -304,3 +304,93 @@
     right:18px;
     bottom:20px;
 }
+@media(max-width:600px)
+{
+    .upper-container{
+        width:80% ;
+    }
+    #addlist
+    {
+        display: none;
+    }
+    .circle
+    {
+        right: 30px;
+    }
+    .upper-container1
+    {
+        width:80%;
+    }
+
+    
+
+
+  .div2
+  {
+    display: none;
+  }
+  .div3{
+    display: none;
+  }
+  .div1{
+    border: none;
+    color: grey;
+
+   }
+   .card1
+   {
+       left: 30px;
+       width: 90%;
+       height: 25vw;
+       border: 0px;
+   }
+   .card2
+   {
+       left: 30px;
+       width: 90%;
+       border: 0px;
+       height: 25vw;
+   }
+   .card3
+   {
+       left: 30px;
+       width: 90%;
+       border: 0px;
+       height: 25vw;
+   }
+   
+   .pop-up
+   {
+       left: 100px;
+       width: 70%;
+   }
+
+   .line1
+   {
+       display: none;
+   }
+   .line2
+   {
+       display: none;
+   }
+   .card
+   {
+       width: 90%;
+       left: 30px;
+   }
+   .arrow
+   {
+     left: 70px;
+     bottom: 160px;
+   }
+   #back
+   {
+       display: none;
+   }
+   .heading1
+   {
+       right: 350px;
+       
+   }
+  
+}
